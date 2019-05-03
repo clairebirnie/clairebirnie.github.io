@@ -1,2 +1,2 @@
 # clairebirnie.github.io
-Portpolio website
+Portfolio website
